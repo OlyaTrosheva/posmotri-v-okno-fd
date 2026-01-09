@@ -11,9 +11,9 @@ html {
 .page {
   display: flex;
   justify-content: center;
-  align-items: center;
-  width: 1200px;
-  block-size: 100%;
+  align-items: center; 
+  width: 1200px; 
+  block-size: 100%; 
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -67,7 +67,7 @@ ol {
   display: flex;
   flex-direction: column;
   width: 711px;
-  gap: 16px;
+  gap: 16px; 
 }
 
 .result__video-container {
@@ -157,11 +157,11 @@ ol {
 .content__list-container {
   display: flex;
   flex-direction: column;
-  max-height: 298px;
+  block-size: 298px;
   width: 399px;
   overflow: auto;
   gap: 30px;
-  position: relative;
+  position: relative; 
 }
 
 .content__list {
